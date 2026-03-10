@@ -1,0 +1,24 @@
+features:
+- No of Zone
+- No of Schools - Primary
+- No of Schools - Middle
+- No of Schools - Sec
+- No of Schools - Sr. Sec
+- No of Schools - Total
+- No of Students - Pre Primary
+- No of Students - Primary
+- No of Students - Middle
+- No of Students - Secondary
+- No of Students - Sr Secondary
+- No of Students - Boys
+- No of Students - Girls
+- No of Students - Total
+- "NUMBER OF STUDENTS APPEARED IN CLASS X \n(Before Compt.) - 2023-24"
+- " PASS PERCENTAGE IN CLASS X - \n(Before Compt.) - 2023-24"
+- " QUALITY INDEX IN CLASS X - \n(Before Compt) - 2023-24"
+- "TOTAL NUMBER OF STUDENTS APPEARED IN CLASS XII - \n(Before Compt.) - 2023-24"
+- "TOTAL NUMBER OF STUDENTS PASSED IN CLASS XII - \n(Before Compt.) - 2023-24"
+- PASS PERCENTAGE IN CLASS XII - (Before Compt.) - 2023-24
+- QUALITY INDEX IN CLASS XII - (Before Compt.) - 2023-24
+model: AIS + PSO Hybrid ANN
+neurons: 115
