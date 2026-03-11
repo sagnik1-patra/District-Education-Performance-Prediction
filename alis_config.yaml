@@ -1,0 +1,3 @@
+dataset: EducationDataset_2023-24
+features_selected: 24
+model: Hybrid ALOA + AIS

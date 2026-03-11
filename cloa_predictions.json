@@ -1,0 +1,10 @@
+{
+    "accuracy": 1.0,
+    "model": "RandomForest",
+    "predictions": [
+        false,
+        false,
+        false,
+        false
+    ]
+}

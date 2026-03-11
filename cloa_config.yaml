@@ -1,0 +1,3 @@
+dataset: EducationDataset_2023-24
+model: Hybrid ALOA + CSA
+selected_features: 53
